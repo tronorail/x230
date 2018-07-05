@@ -1,0 +1,12 @@
+pulseaudio
+pavucontrol
+alsa-utils
+added acpi_osi= to kernel parameters in grub
+
+pip3 simplejson
+python2-pip
+pip2 simplejson
+
+pandoc
+xdotool
+
